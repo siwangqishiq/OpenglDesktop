@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenglDesktop", "OpenglDesktop.vcxproj", "{0E316A37-0F95-4E86-934E-D6834F09CD4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E316A37-0F95-4E86-934E-D6834F09CD4F}.Debug|x64.ActiveCfg = Debug|x64
+		{0E316A37-0F95-4E86-934E-D6834F09CD4F}.Debug|x64.Build.0 = Debug|x64
+		{0E316A37-0F95-4E86-934E-D6834F09CD4F}.Debug|x86.ActiveCfg = Debug|Win32
+		{0E316A37-0F95-4E86-934E-D6834F09CD4F}.Debug|x86.Build.0 = Debug|Win32
+		{0E316A37-0F95-4E86-934E-D6834F09CD4F}.Release|x64.ActiveCfg = Release|x64
+		{0E316A37-0F95-4E86-934E-D6834F09CD4F}.Release|x64.Build.0 = Release|x64
+		{0E316A37-0F95-4E86-934E-D6834F09CD4F}.Release|x86.ActiveCfg = Release|Win32
+		{0E316A37-0F95-4E86-934E-D6834F09CD4F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DD817D6-8E8C-4233-AC99-E35A1DAB8F44}
+	EndGlobalSection
+EndGlobal
